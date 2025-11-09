@@ -34,14 +34,6 @@ When a task is marked as *Done*, it is automatically removed from the list durin
   - Sorting (Bubble Sort)  
   - String Operations  
   - Menu-Driven Programming
-
----
-
-## 📂 File Details
-- `todo_list.c` → Main source code file  
-- `tasks.txt` → Stores all task records  
-  Each line in the file follows the format:
-
 ---
 
 ## ▶️ How to Run
@@ -65,7 +57,7 @@ Enter Deadline Time (HH:MM): 18:00
 Task added.
 
 ## Output inside tasks.txt
-Complete Project Report|12/11/2025|18:00|0
+Complete Project Report|12/11/2025|18:00|0 \n
 Prepare Presentation|14/11/2025|09:30|0
 
 ## MIT License
