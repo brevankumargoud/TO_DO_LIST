@@ -57,8 +57,7 @@ Enter Deadline Time (HH:MM): 18:00
 Task added.
 
 ## Output inside tasks.txt
-Complete Project Report|12/11/2025|18:00|0 \n
-Prepare Presentation|14/11/2025|09:30|0
+Complete Project Report|12/11/2025|18:00|0
 
 ## MIT License
 
